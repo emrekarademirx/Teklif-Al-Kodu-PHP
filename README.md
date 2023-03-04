@@ -1,4 +1,4 @@
-# Teklif-Al-Kodu-PHP
+# Teklif Al Kodu PHP
 Bu script, kullanıcıların web sitenize teklif vermelerini sağlar. Kullanıcılar ad, e-posta, telefon ve mesaj bilgilerini girerek teklif verirler ve bu veriler veritabanına kaydedilir.
 
 # Gereksinimler
